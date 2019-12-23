@@ -1,7 +1,6 @@
 ## 李简单
 ##### 男 / 20岁 / 2020届本科
-
-** 199xxxx1024 / allinprogram@outlook.com / xxxxxxx
+##### 199xxxx1024 / allinprogram@outlook.com / xxxxxxx
 
 - 博客：https://your_blog.com/ 
 - Stack Overﬂow： https://stackoverflow.com/users/your_stackoverflow
